@@ -11,7 +11,7 @@ conexao = mysql.connector.connect(
 
 cursor = conexao.cursor()
 
-print(f'{"SEJA BEM VINDO A PADARIA PYTHON!":^40}')
+print(f'{"SEJA BEM VINDO A CLOUD BAKERY":^40}')
 while True:
       print('-='*20)
       print(f'{"MENU":^40}')
