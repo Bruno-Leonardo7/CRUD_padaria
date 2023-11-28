@@ -70,9 +70,9 @@ while True:
                                           print('O código digitado não existe! Tente novamente!')
                                     else:
                                           while True:
-                                                utilitarios.linhas(14)
+                                                print('-='*14)
                                                 print(f'{"POSSIBILIDADES DE MUDANÇAS":^20}')
-                                                utilitarios.linhas(14)
+                                                print('-='*14)
                                                 print('1 - NOME\n'
                                                       '2 - VALOR\n'
                                                       '3 - VOLTAR')
