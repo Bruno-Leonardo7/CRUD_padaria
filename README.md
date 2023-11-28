@@ -8,3 +8,5 @@ Nesse banco de dados, foram introduzidos 3 informações para os produtos, são 
      <li> Python </li>
      <li> MySQL </li>
 </ul>
+<h2>📜 Licença: </h2>
+<p align = "justify"> Esse projeto utiliza da <b>lincença MIT</b>. Sinta-se a vontade para utilizá-lo ou modificá-lo.</p>
