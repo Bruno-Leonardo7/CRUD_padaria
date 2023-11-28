@@ -11,8 +11,6 @@ conexao = mysql.connector.connect(
 
 cursor = conexao.cursor()
 
-# CRUD - CREATE | READ | UPDATE | DELETE
-
 print(f'{"SEJA BEM VINDO A PADARIA PYTHON!":^40}')
 while True:
       print('-='*20)
